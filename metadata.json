@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseOS",
+  "description": "Minimalist personal finance OS with customizable live widgets, custom theme engines, Gemini AI assistant, asset tracking, and Room database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
